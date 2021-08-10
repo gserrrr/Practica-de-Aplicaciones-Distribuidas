@@ -1,0 +1,30 @@
+
+#mitad_arriba{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container_arriba{
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    vertical-align: middle;
+}
+
+#espera3{
+    text-align: center;
+}
+#espera33{
+    display: inline-block;
+}
+
+#goPrivada{
+    text-align: right;
+}
+
+#goPrivada a{
+    color: black;
+    text-decoration: none;
+}

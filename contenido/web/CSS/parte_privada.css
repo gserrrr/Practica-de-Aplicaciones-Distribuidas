@@ -1,0 +1,57 @@
+.divs_arriba{
+    display: inline-block;
+    border:2px solid black;
+    vertical-align: middle;
+}
+
+#parte_arriba{
+    text-align: center;
+}
+
+#checkboxes{
+    margin-right: 10%;
+    text-align: left;
+    padding-left: 32px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#datos{
+    margin-left: 10%;
+    padding-top: 20px;
+    padding-right: 15px;
+}
+li{
+    text-align: left;
+}
+p{
+    display:inline-block;
+}
+.izq{
+    font-weight: bold;
+}
+li{
+    list-style-type:none;
+    padding-left: 10px;
+}
+
+
+#parte_arriba{
+    margin-bottom: 50px;
+}
+
+#container{
+    text-align: center;
+}
+
+#espera{
+    display:inline-block;
+}
+
+
+#goPublica a{
+    color: black;
+    text-decoration: none;
+}
+
